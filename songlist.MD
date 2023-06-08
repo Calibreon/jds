@@ -1,5 +1,4 @@
 | **A**                                     | **G**                                   | **R**                                            |
-|-------------------------------------------|-----------------------------------------|--------------------------------------------------|
 | Another One Bites The Dust - Queen        | Give That Wolf A Banana - Subwoolfer    | Radioactive - Imagine Dragons                    |
 | Anything I Do - Cliq Ft Ms Banks, Alika   | God Is A Woman - Ariana Grande          | Rare - Selena Gomez                              |
 | Applause - Lady Gaga                      | Good Ones - Charli Xcx                  | Rasputin - Boney M                               |
