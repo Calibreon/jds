@@ -1,5 +1,6 @@
-| **A**                                   | **B**                                           | **C**                                            |
+|                                         | **DANCE LIST**                                  |                                                  |
 |-----------------------------------------|-------------------------------------------------|--------------------------------------------------|
+| **A**                                   | **B**                                           | **C**                                            |
 | Another One Bites The Dust - Queen      | Baby One More Time - Britney Spears             | Call Me Maybe - Carly Rae Jepsen                 |
 | Anything I Do - Cliq Ft Ms Banks, Alika | Bad Guy - Billie Eilish                         | Cant Stop The Feeling - Justin Timberlake        |
 | Applause - Lady Gaga                    | Bad Romance - Ladygaga                          | Cercavo Amore - Emma                             |
@@ -18,7 +19,6 @@
 |                                         | Boys - The Lemon Cubes                          |                                                  |
 |                                         | Bring Me To Life - Evanescence                  |                                                  |
 | **D**                                   | **E**                                           | **F**                                            |
-|-----------------------------------------|-------------------------------------------------|--------------------------------------------------|
 | Daddy Cool - Groove Century             | E.T - Katy Perry                                | Farfalle - Sangiovanni                           |
 | Danger! High Voltage - Electric Six     | Error - Natalia Nykiel                          | Feel So Right - Imposs Ft Konshens               |
 | Dark Horse - Katy Perry                 | Euphoria - Loreen                               | Fire On The Floor - Michelle Delamor             |
@@ -30,7 +30,6 @@
 | Dynamite - BTS                          |                                                 |                                                  |
 | Dynamite - BTS (Extreme Version)        |                                                 |                                                  |
 | **G**                                   | **H**                                           | **I**                                            |
-|-----------------------------------------|-------------------------------------------------|--------------------------------------------------|
 | Give That Wolf A Banana - Subwoolfer    | Happie Than Ever - Billie Eilish                | I Kiss A Girl - Katy Perry                       |
 | God Is A Woman - Ariana Grande          | Heat Waves - Glass Animals                      | I Knew You Were Trouble - Taylor Swift           |
 | Good Ones - Charli Xcx                  | Hot N Cold - Katy Perry                         | I Will Survive - Gloria Gaynor                   |
@@ -38,7 +37,6 @@
 |                                         |                                                 | Im Still Standing - Elton John                   |
 |                                         |                                                 | Into You - Ariana Grande                         |
 | **J**                                   | **L**                                           | **M**                                            |
-|-----------------------------------------|-------------------------------------------------|--------------------------------------------------|
 | Judas - Lady Gaga                       | Last Friday Night - Katy Perry                  | Magic - Kylie Minogue                            |
 | Juice - Lizzo                           | Livin La Vida Loca - Ricky Martin               | Majesty - Apashe Ft Wasiu                        |
 | Just Dance - Lady Gaga                  | Locked Out Of Heaven - Bruno Mars               | Me Too - Meghan Trainor                          |
@@ -49,7 +47,6 @@
 |                                         |                                                 | More - Kda Extreme                               |
 |                                         |                                                 | Mr Saxobeat - Alexandra Stan                     |
 | **N**                                   |  **O**                                          | **P**                                            |
-|-----------------------------------------|-------------------------------------------------|--------------------------------------------------|
 | New Reality - Gigi Rowe                 | Oath - Cher Ft Becky G                          | Physical - Dua Lipa                              |
 | New Rules - Dua Lipa                    |                                                 | Physical - Dua Lipa (Extreme Version)            |
 | New Rules - Dua Lipa (Extreme Version)  |                                                 | Playground - Bea Miller                          |
@@ -60,7 +57,6 @@
 |                                         |                                                 | Psycho - Red Vekvet (Extreme Version)            |
 |                                         |                                                 | Mr Saxobeat - Alexandra Stan                     |
 | **R**                                   | **S**                                           | **T**                                            |
-|-----------------------------------------|-------------------------------------------------|--------------------------------------------------|
 | Radioactive - Imagine Dragons           | September - Equinox Stars                       | Telephone - Ladygaga                             |
 | Rare - Selena Gomez                     | Sexy And I Know It - Lmfao                      | Thank U Next - Ariana Grande                     |
 | Rasputin - Boney M                      | Shes Got Me Dancing - Tommy Sparks              | Thats The Way I Like It - Kc & The Sunshine Band |
@@ -73,7 +69,6 @@
 |                                         |                                                 | Toxic - Britney Spears (Extreme Version)         |
 |                                         |                                                 | Toy - Netta                                      |
 | **U**                                   | **W**                                           | **Y**                                            |
-|-----------------------------------------|-------------------------------------------------|--------------------------------------------------|
 | U Cant Touch This - Groove Century      | Walking On Sunshine - Top Culture               | You Make Me Feel - Sylvester                     |
 | Ubulove - Naniwa Danshi                 | Wannabe - Itzy                                  | You Make Me Feel - Cobra Starship                |
 |                                         | Wannabe - Itzy (Extreme Version)                | Your The One That I Want - Grease                |
