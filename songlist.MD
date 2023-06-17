@@ -7,9 +7,10 @@
 | Aquarius - The Sunlight Shakers         | Bad Romance - Ladygaga (Extreme Version)        | Chandelier - Sia                                 |
 | As It Was - Harry Styles                | Bailando - Paradisio Ft Dj Patrick Samoy        | Cheap Thrills - Sia Ft Sean Paul                 |
 | Automanton - Jamiroquai                 | Bangarang - Skrillex Ft Sirah                   | Cmon - Kesha                                     |
-|                                         | Believer - Imagine Dragons                      | Cola Song - Inna Ft J Balvin                     |
-|                                         | Big Girl - Mika                                 | Crazy Little Thing Called Love - Queen           |
-|                                         | Blue - Hit The Electro Beat                     | Crucified - Army Of Lovers                       |
+|                                         | Beggin' - Måneskin                              | Cola Song - Inna Ft J Balvin                     |
+|                                         | Believer - Imagine Dragons                      | Crazy Little Thing Called Love - Queen           |
+|                                         | Big Girl - Mika                                 | Crucified - Army Of Lovers                       |
+|                                         | Blue - Hit The Electro Beat                     |                                                  |
 |                                         | Bonbon - Era Istrefi                            |                                                  |
 |                                         | Boogie Wonderland - Groove Century              |                                                  |
 |                                         | Born This Way - Ladygaga                        |                                                  |
